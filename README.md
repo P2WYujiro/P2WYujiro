@@ -17,7 +17,7 @@
 
 ---
 
-### :smiling_face_with_sunglasses: About me:
+### :memo: About me:
 - :nerd_face: I'm a 4-th-year student of End/De Philology
 - :robot: And at the same time a student of Data Analysis
 - :thinking: A begginer in feild of Software Engineering
@@ -28,7 +28,7 @@
 ---
 
 ### :gear: My LeetCode's profile:
-![](https://leetcode-stats-six.vercel.app/api?username=P2WYujirotheme=dark)](https://github.com/KnlnKS/leetcode-stats) 
+![](https://leetcode-stats-six.vercel.app/api?username=P2WYujiro&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
 
 ---
 
