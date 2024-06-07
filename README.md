@@ -28,7 +28,7 @@
 ---
 
 ### :gear: My LeetCode's profile:
-![](https://leetcode-stats-six.vercel.app/api?username=P2WYujiro&theme=dark)](https://github.com/KnlnKS/leetcode-stats) 
+![](https://leetcode-stats-six.vercel.app/api?username=P2WYujiro&theme=dark)
 
 ---
 
