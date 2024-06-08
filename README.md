@@ -18,7 +18,7 @@
 ---
 
 ### :memo: About me:
-- :nerd_face: I'm a 4-th-year student of End/De Philology
+- :nerd_face: I'm a 4-th-year student of Eng/De Philology
 - :robot: And at the same time a student of Data Analysis
 - :thinking: A begginer in feild of Software Engineering
 - :video_game: Gaming since childhood quite actively
